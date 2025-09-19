@@ -1,5 +1,4 @@
 scipy
-scipy
 pandas
 numpy
 matplotlib
